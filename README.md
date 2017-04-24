@@ -1,2 +1,2 @@
 # helios-vorld
-tutorial for first repo
+nine times out of ten we write the best lines
